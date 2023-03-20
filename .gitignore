@@ -56,6 +56,7 @@ local.properties
 mono_crash.*
 
 # Build results
+
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
